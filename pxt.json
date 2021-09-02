@@ -1,0 +1,30 @@
+{
+    "name": "Basketball shot count",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "startbit": "github:LOBOT-ROBOT/Startbit#174be9b29cf4c1998f0a8e88b06d69e795490bf7"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.2.12",
+        "tag": "v1.2.12",
+        "commits": "https://github.com/Microsoft/pxt-microbit/commits/7c2d7ba7c481ff8da7ea3f8a1ba37f5bae099be9",
+        "target": "4.0.11",
+        "pxt": "4.4.7",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
